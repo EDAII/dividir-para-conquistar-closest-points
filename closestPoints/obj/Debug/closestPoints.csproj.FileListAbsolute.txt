@@ -1,0 +1,10 @@
+C:\Users\55619\source\repos\closestPoints\closestPoints\bin\Debug\closestPoints.exe.config
+C:\Users\55619\source\repos\closestPoints\closestPoints\bin\Debug\closestPoints.exe
+C:\Users\55619\source\repos\closestPoints\closestPoints\bin\Debug\closestPoints.pdb
+C:\Users\55619\source\repos\closestPoints\closestPoints\obj\Debug\closestPoints.csprojResolveAssemblyReference.cache
+C:\Users\55619\source\repos\closestPoints\closestPoints\obj\Debug\closestPoints.closestPointsProgram.resources
+C:\Users\55619\source\repos\closestPoints\closestPoints\obj\Debug\closestPoints.Properties.Resources.resources
+C:\Users\55619\source\repos\closestPoints\closestPoints\obj\Debug\closestPoints.csproj.GenerateResource.cache
+C:\Users\55619\source\repos\closestPoints\closestPoints\obj\Debug\closestPoints.csproj.CoreCompileInputs.cache
+C:\Users\55619\source\repos\closestPoints\closestPoints\obj\Debug\closestPoints.exe
+C:\Users\55619\source\repos\closestPoints\closestPoints\obj\Debug\closestPoints.pdb
