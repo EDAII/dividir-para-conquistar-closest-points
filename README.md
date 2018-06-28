@@ -1,5 +1,5 @@
 # closest points
-Geração de pontos aleatórios e closest point finding utilizando dividir para conquistar
+Geração de pontos aleatórios e closest point finding utilizando dividir para conquistar em C#
 
 |Matricula|Aluno|
 |:---:|:---:|
